@@ -19,7 +19,6 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
-    "postinstall": "npm install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
